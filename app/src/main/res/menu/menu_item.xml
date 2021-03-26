@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/id_device"
+        android:icon="@drawable/ic_devices"
+        android:title="Device"
+        app:cnb_iconColor="@color/system"/>
+
+    <item
+        android:id="@+id/ic_cpu"
+        android:icon="@drawable/ic_cpu"
+        android:title="CPU"
+        app:cnb_iconColor="@color/cpu"/>
+    <item
+        android:id="@+id/id_battery"
+        android:icon="@drawable/ic_battery"
+        android:title="Battery"
+        app:cnb_iconColor="@color/battery" />
+    <item
+    android:id="@+id/id_memory"
+    android:icon="@drawable/ic_memory"
+    android:title="Memory"
+    app:cnb_iconColor="@color/memory" />
+    <item
+        android:id="@+id/id_network"
+        android:icon="@drawable/ic_network"
+        android:title="Network"
+        app:cnb_iconColor="@color/network" />
+    <item
+        android:id="@+id/id_about"
+        android:icon="@drawable/ic_about"
+        android:title="About"
+        app:cnb_iconColor="@color/about" />
+
+
+
+
+</menu>
