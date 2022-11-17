@@ -6,6 +6,11 @@
 <p align="center">
 
   <img src="media/Screenshot_01.png" width="150" />
+  <img src="media/Screenshot_01.png" width="150" />
+  <img src="media/Screenshot_01.png" width="150" />
+  <img src="media/Screenshot_01.png" width="150" />
+  <img src="media/Screenshot_01.png" width="150" />
+  <img src="media/Screenshot_01.png" width="150" />
   
 </p>
 
